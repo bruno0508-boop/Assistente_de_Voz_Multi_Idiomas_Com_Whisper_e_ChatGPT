@@ -29,3 +29,7 @@ Ferramentas de aprendizado de novos idiomas.
 Atendimento ao cliente automatizado e humanizado.
 
 Sistemas de domótica (casas inteligentes) controlados por voz.
+
+Link do Projeto - [https://notebooklm.google.com/notebook/ecbdcc6b-260e-4e73-a8b4-9f3dba9f89b7](https://colab.research.google.com/drive/11rhZplOnZX_zpQwfriS7p___YN13gk_U?usp=sharing)
+
+
