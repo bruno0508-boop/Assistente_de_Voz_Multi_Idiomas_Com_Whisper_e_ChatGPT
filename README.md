@@ -1,0 +1,1 @@
+# Assistente_de_Voz_Multi_Idiomas_Com_Whisper_e_ChatGPT
